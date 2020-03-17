@@ -1,5 +1,5 @@
 # LeftorRight_Javagame
-2019년 자바 설거지의 고수(left or right)게임 프로젝트 ♣
+2019년 자바 설거지의 고수(left or right)게임 프로젝트
 
 Screenshots  
 -----------
